@@ -28,7 +28,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-##preview
+## Preview
 
 ![image](https://user-images.githubusercontent.com/40922162/111727083-372a5780-8838-11eb-8d8e-29508aa036a9.png)
 
