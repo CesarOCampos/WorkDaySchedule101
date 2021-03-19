@@ -1,6 +1,7 @@
 # WorkDaySchedule101
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
+You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
 ## User Story
 
@@ -32,6 +33,6 @@ THEN the saved events persist
 
 ![image](https://user-images.githubusercontent.com/40922162/111727083-372a5780-8838-11eb-8d8e-29508aa036a9.png)
 
-##GitHub link
+## GitHub link
 
 https://cesarocampos.github.io/WorkDaySchedule101/
